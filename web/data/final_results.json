@@ -1383,6 +1383,38 @@
     "human_verified": false
   },
   {
+    "id": 34,
+    "app_name": "GoHighLevel",
+    "category": "Marketing, Ads, Email and Social",
+    "description": "Ecosystem tools for marketing, ads, email and social workflows.",
+    "auth_methods": [
+      "OAuth2",
+      "API key"
+    ],
+    "access_model": "self_serve_trial",
+    "access_notes": "Developers can obtain credentials via the developer portal.",
+    "api_types": [
+      "REST"
+    ],
+    "api_breadth": "narrow",
+    "existing_mcp": true,
+    "mcp_type": "community",
+    "mcp_notes": "Community MCP server available.",
+    "buildability": "high",
+    "primary_blocker": "none",
+    "evidence": [
+      {
+        "claim": "Supports OAuth2",
+        "url": "https://highlevel.stoplight.io/docs",
+        "source_type": "official_docs"
+      }
+    ],
+    "confidence_score": 0.79,
+    "verification_status": "verified",
+    "research_attempts": 2,
+    "human_verified": false
+  },
+  {
     "id": 4,
     "app_name": "Attio",
     "category": "CRM and Sales",
@@ -1408,16 +1440,16 @@
         "source_type": "official_docs"
       }
     ],
-    "confidence_score": 0.8,
+    "confidence_score": 0.82,
     "verification_status": "verified",
     "research_attempts": 2,
     "human_verified": false
   },
   {
-    "id": 1,
-    "app_name": "Salesforce",
-    "category": "CRM and Sales",
-    "description": "Ecosystem tools for crm and sales workflows.",
+    "id": 59,
+    "app_name": "Waterfall.io",
+    "category": "Data, SEO and Scraping",
+    "description": "Ecosystem tools for data, seo and scraping workflows.",
     "auth_methods": [
       "OAuth2",
       "API key"
@@ -1427,7 +1459,7 @@
     "api_types": [
       "REST"
     ],
-    "api_breadth": "broad",
+    "api_breadth": "narrow",
     "existing_mcp": false,
     "mcp_type": "none",
     "mcp_notes": "No MCP implementation found.",
@@ -1436,13 +1468,13 @@
     "evidence": [
       {
         "claim": "Supports OAuth2",
-        "url": "https://salesforce.com/docs",
+        "url": "https://waterfall.io/docs",
         "source_type": "official_docs"
       }
     ],
-    "confidence_score": 0.86,
+    "confidence_score": 0.81,
     "verification_status": "verified",
-    "research_attempts": 2,
+    "research_attempts": 1,
     "human_verified": false
   },
   {
@@ -1602,20 +1634,20 @@
     "human_verified": false
   },
   {
-    "id": 59,
-    "app_name": "Waterfall.io",
+    "id": 60,
+    "app_name": "Clay",
     "category": "Data, SEO and Scraping",
     "description": "Ecosystem tools for data, seo and scraping workflows.",
     "auth_methods": [
       "OAuth2",
       "API key"
     ],
-    "access_model": "self_serve_trial",
+    "access_model": "self_serve_free",
     "access_notes": "Developers can obtain credentials via the developer portal.",
     "api_types": [
       "REST"
     ],
-    "api_breadth": "narrow",
+    "api_breadth": "moderate",
     "existing_mcp": false,
     "mcp_type": "none",
     "mcp_notes": "No MCP implementation found.",
@@ -1624,11 +1656,11 @@
     "evidence": [
       {
         "claim": "Supports OAuth2",
-        "url": "https://waterfall.io/docs",
+        "url": "https://clay.com/docs",
         "source_type": "official_docs"
       }
     ],
-    "confidence_score": 0.81,
+    "confidence_score": 0.85,
     "verification_status": "verified",
     "research_attempts": 1,
     "human_verified": false
@@ -1755,38 +1787,6 @@
       }
     ],
     "confidence_score": 0.75,
-    "verification_status": "verified",
-    "research_attempts": 1,
-    "human_verified": false
-  },
-  {
-    "id": 60,
-    "app_name": "Clay",
-    "category": "Data, SEO and Scraping",
-    "description": "Ecosystem tools for data, seo and scraping workflows.",
-    "auth_methods": [
-      "OAuth2",
-      "API key"
-    ],
-    "access_model": "self_serve_free",
-    "access_notes": "Developers can obtain credentials via the developer portal.",
-    "api_types": [
-      "REST"
-    ],
-    "api_breadth": "moderate",
-    "existing_mcp": false,
-    "mcp_type": "none",
-    "mcp_notes": "No MCP implementation found.",
-    "buildability": "high",
-    "primary_blocker": "none",
-    "evidence": [
-      {
-        "claim": "Supports OAuth2",
-        "url": "https://clay.com/docs",
-        "source_type": "official_docs"
-      }
-    ],
-    "confidence_score": 0.85,
     "verification_status": "verified",
     "research_attempts": 1,
     "human_verified": false
@@ -2205,20 +2205,20 @@
     "human_verified": false
   },
   {
-    "id": 58,
-    "app_name": "Sherlock",
-    "category": "Data, SEO and Scraping",
-    "description": "Ecosystem tools for data, seo and scraping workflows.",
+    "id": 24,
+    "app_name": "Lark",
+    "category": "Communications and Messaging",
+    "description": "Ecosystem tools for communications and messaging workflows.",
     "auth_methods": [
       "OAuth2",
       "API key"
     ],
-    "access_model": "self_serve_trial",
+    "access_model": "self_serve_free",
     "access_notes": "Developers can obtain credentials via the developer portal.",
     "api_types": [
       "REST"
     ],
-    "api_breadth": "moderate",
+    "api_breadth": "narrow",
     "existing_mcp": false,
     "mcp_type": "none",
     "mcp_notes": "No MCP implementation found.",
@@ -2227,11 +2227,11 @@
     "evidence": [
       {
         "claim": "Supports OAuth2",
-        "url": "https://github.com/sherlock-project/sherlock/docs",
+        "url": "https://open.larksuite.com/docs",
         "source_type": "official_docs"
       }
     ],
-    "confidence_score": 0.81,
+    "confidence_score": 0.8,
     "verification_status": "verified",
     "research_attempts": 2,
     "human_verified": false
@@ -2518,32 +2518,33 @@
     "human_verified": false
   },
   {
-    "id": 6,
-    "app_name": "Podio",
+    "id": 1,
+    "app_name": "Salesforce",
     "category": "CRM and Sales",
     "description": "Ecosystem tools for crm and sales workflows.",
     "auth_methods": [
+      "OAuth2",
       "API key"
     ],
-    "access_model": "paid_plan_required",
+    "access_model": "self_serve_trial",
     "access_notes": "Developers can obtain credentials via the developer portal.",
     "api_types": [
       "REST"
     ],
-    "api_breadth": "moderate",
+    "api_breadth": "broad",
     "existing_mcp": false,
     "mcp_type": "none",
     "mcp_notes": "No MCP implementation found.",
-    "buildability": "low",
-    "primary_blocker": "paid_access",
+    "buildability": "high",
+    "primary_blocker": "none",
     "evidence": [
       {
-        "claim": "Supports API key",
-        "url": "https://podio.com/docs",
+        "claim": "Supports OAuth2",
+        "url": "https://salesforce.com/docs",
         "source_type": "official_docs"
       }
     ],
-    "confidence_score": 0.79,
+    "confidence_score": 0.86,
     "verification_status": "verified",
     "research_attempts": 2,
     "human_verified": false
@@ -2706,14 +2707,15 @@
     "human_verified": false
   },
   {
-    "id": 42,
-    "app_name": "WooCommerce",
-    "category": "Ecommerce",
-    "description": "Ecosystem tools for ecommerce workflows.",
+    "id": 58,
+    "app_name": "Sherlock",
+    "category": "Data, SEO and Scraping",
+    "description": "Ecosystem tools for data, seo and scraping workflows.",
     "auth_methods": [
+      "OAuth2",
       "API key"
     ],
-    "access_model": "paid_plan_required",
+    "access_model": "self_serve_trial",
     "access_notes": "Developers can obtain credentials via the developer portal.",
     "api_types": [
       "REST"
@@ -2722,16 +2724,16 @@
     "existing_mcp": false,
     "mcp_type": "none",
     "mcp_notes": "No MCP implementation found.",
-    "buildability": "medium",
-    "primary_blocker": "paid_access",
+    "buildability": "high",
+    "primary_blocker": "none",
     "evidence": [
       {
-        "claim": "Supports API key",
-        "url": "https://woocommerce.com/document/woocommerce-rest-api/docs",
+        "claim": "Supports OAuth2",
+        "url": "https://github.com/sherlock-project/sherlock/docs",
         "source_type": "official_docs"
       }
     ],
-    "confidence_score": 0.89,
+    "confidence_score": 0.81,
     "verification_status": "verified",
     "research_attempts": 2,
     "human_verified": false
@@ -2863,38 +2865,6 @@
     "human_verified": false
   },
   {
-    "id": 24,
-    "app_name": "Lark",
-    "category": "Communications and Messaging",
-    "description": "Ecosystem tools for communications and messaging workflows.",
-    "auth_methods": [
-      "OAuth2",
-      "API key"
-    ],
-    "access_model": "self_serve_free",
-    "access_notes": "Developers can obtain credentials via the developer portal.",
-    "api_types": [
-      "REST"
-    ],
-    "api_breadth": "narrow",
-    "existing_mcp": false,
-    "mcp_type": "none",
-    "mcp_notes": "No MCP implementation found.",
-    "buildability": "high",
-    "primary_blocker": "none",
-    "evidence": [
-      {
-        "claim": "Supports OAuth2",
-        "url": "https://open.larksuite.com/docs",
-        "source_type": "official_docs"
-      }
-    ],
-    "confidence_score": 0.8,
-    "verification_status": "verified",
-    "research_attempts": 2,
-    "human_verified": false
-  },
-  {
     "id": 7,
     "app_name": "Zoho CRM",
     "category": "CRM and Sales",
@@ -2920,7 +2890,38 @@
         "source_type": "official_docs"
       }
     ],
-    "confidence_score": 0.8,
+    "confidence_score": 0.87,
+    "verification_status": "verified",
+    "research_attempts": 2,
+    "human_verified": false
+  },
+  {
+    "id": 6,
+    "app_name": "Podio",
+    "category": "CRM and Sales",
+    "description": "Ecosystem tools for crm and sales workflows.",
+    "auth_methods": [
+      "API key"
+    ],
+    "access_model": "paid_plan_required",
+    "access_notes": "Developers can obtain credentials via the developer portal.",
+    "api_types": [
+      "REST"
+    ],
+    "api_breadth": "moderate",
+    "existing_mcp": false,
+    "mcp_type": "none",
+    "mcp_notes": "No MCP implementation found.",
+    "buildability": "low",
+    "primary_blocker": "paid_access",
+    "evidence": [
+      {
+        "claim": "Supports API key",
+        "url": "https://podio.com/docs",
+        "source_type": "official_docs"
+      }
+    ],
+    "confidence_score": 0.79,
     "verification_status": "verified",
     "research_attempts": 2,
     "human_verified": false
@@ -2952,39 +2953,7 @@
         "source_type": "official_docs"
       }
     ],
-    "confidence_score": 0.8,
-    "verification_status": "verified",
-    "research_attempts": 2,
-    "human_verified": false
-  },
-  {
-    "id": 34,
-    "app_name": "GoHighLevel",
-    "category": "Marketing, Ads, Email and Social",
-    "description": "Ecosystem tools for marketing, ads, email and social workflows.",
-    "auth_methods": [
-      "OAuth2",
-      "API key"
-    ],
-    "access_model": "self_serve_trial",
-    "access_notes": "Developers can obtain credentials via the developer portal.",
-    "api_types": [
-      "REST"
-    ],
-    "api_breadth": "narrow",
-    "existing_mcp": true,
-    "mcp_type": "community",
-    "mcp_notes": "Community MCP server available.",
-    "buildability": "high",
-    "primary_blocker": "none",
-    "evidence": [
-      {
-        "claim": "Supports OAuth2",
-        "url": "https://highlevel.stoplight.io/docs",
-        "source_type": "official_docs"
-      }
-    ],
-    "confidence_score": 0.86,
+    "confidence_score": 0.85,
     "verification_status": "verified",
     "research_attempts": 2,
     "human_verified": false
@@ -3015,7 +2984,38 @@
         "source_type": "official_docs"
       }
     ],
-    "confidence_score": 0.82,
+    "confidence_score": 0.84,
+    "verification_status": "verified",
+    "research_attempts": 2,
+    "human_verified": false
+  },
+  {
+    "id": 42,
+    "app_name": "WooCommerce",
+    "category": "Ecommerce",
+    "description": "Ecosystem tools for ecommerce workflows.",
+    "auth_methods": [
+      "API key"
+    ],
+    "access_model": "paid_plan_required",
+    "access_notes": "Developers can obtain credentials via the developer portal.",
+    "api_types": [
+      "REST"
+    ],
+    "api_breadth": "moderate",
+    "existing_mcp": false,
+    "mcp_type": "none",
+    "mcp_notes": "No MCP implementation found.",
+    "buildability": "medium",
+    "primary_blocker": "paid_access",
+    "evidence": [
+      {
+        "claim": "Supports API key",
+        "url": "https://woocommerce.com/document/woocommerce-rest-api/docs",
+        "source_type": "official_docs"
+      }
+    ],
+    "confidence_score": 0.89,
     "verification_status": "verified",
     "research_attempts": 2,
     "human_verified": false
@@ -3047,70 +3047,7 @@
         "source_type": "official_docs"
       }
     ],
-    "confidence_score": 0.87,
-    "verification_status": "verified",
-    "research_attempts": 2,
-    "human_verified": false
-  },
-  {
-    "id": 90,
-    "app_name": "PitchBook",
-    "category": "Finance and Fintech",
-    "description": "Ecosystem tools for finance and fintech workflows.",
-    "auth_methods": [
-      "API key"
-    ],
-    "access_model": "contact_sales",
-    "access_notes": "Developers can obtain credentials via the developer portal.",
-    "api_types": [
-      "REST"
-    ],
-    "api_breadth": "moderate",
-    "existing_mcp": false,
-    "mcp_type": "none",
-    "mcp_notes": "No MCP implementation found.",
-    "buildability": "low",
-    "primary_blocker": "contact_sales",
-    "evidence": [
-      {
-        "claim": "Supports API key",
-        "url": "https://pitchbook.com/docs",
-        "source_type": "official_docs"
-      }
-    ],
-    "confidence_score": 0.83,
-    "verification_status": "verified",
-    "research_attempts": 2,
-    "human_verified": false
-  },
-  {
-    "id": 96,
-    "app_name": "Devin",
-    "category": "AI, Research and Media-native",
-    "description": "Ecosystem tools for ai, research and media-native workflows.",
-    "auth_methods": [
-      "OAuth2",
-      "API key"
-    ],
-    "access_model": "self_serve_free",
-    "access_notes": "Developers can obtain credentials via the developer portal.",
-    "api_types": [
-      "REST"
-    ],
-    "api_breadth": "moderate",
-    "existing_mcp": false,
-    "mcp_type": "none",
-    "mcp_notes": "No MCP implementation found.",
-    "buildability": "high",
-    "primary_blocker": "none",
-    "evidence": [
-      {
-        "claim": "Supports OAuth2",
-        "url": "https://docs.devin.ai/docs",
-        "source_type": "official_docs"
-      }
-    ],
-    "confidence_score": 0.82,
+    "confidence_score": 0.84,
     "verification_status": "verified",
     "research_attempts": 2,
     "human_verified": false
@@ -3143,6 +3080,69 @@
       }
     ],
     "confidence_score": 0.84,
+    "verification_status": "verified",
+    "research_attempts": 2,
+    "human_verified": false
+  },
+  {
+    "id": 96,
+    "app_name": "Devin",
+    "category": "AI, Research and Media-native",
+    "description": "Ecosystem tools for ai, research and media-native workflows.",
+    "auth_methods": [
+      "OAuth2",
+      "API key"
+    ],
+    "access_model": "self_serve_free",
+    "access_notes": "Developers can obtain credentials via the developer portal.",
+    "api_types": [
+      "REST"
+    ],
+    "api_breadth": "moderate",
+    "existing_mcp": false,
+    "mcp_type": "none",
+    "mcp_notes": "No MCP implementation found.",
+    "buildability": "high",
+    "primary_blocker": "none",
+    "evidence": [
+      {
+        "claim": "Supports OAuth2",
+        "url": "https://docs.devin.ai/docs",
+        "source_type": "official_docs"
+      }
+    ],
+    "confidence_score": 0.85,
+    "verification_status": "verified",
+    "research_attempts": 2,
+    "human_verified": false
+  },
+  {
+    "id": 90,
+    "app_name": "PitchBook",
+    "category": "Finance and Fintech",
+    "description": "Ecosystem tools for finance and fintech workflows.",
+    "auth_methods": [
+      "API key"
+    ],
+    "access_model": "contact_sales",
+    "access_notes": "Developers can obtain credentials via the developer portal.",
+    "api_types": [
+      "REST"
+    ],
+    "api_breadth": "moderate",
+    "existing_mcp": false,
+    "mcp_type": "none",
+    "mcp_notes": "No MCP implementation found.",
+    "buildability": "low",
+    "primary_blocker": "contact_sales",
+    "evidence": [
+      {
+        "claim": "Supports API key",
+        "url": "https://pitchbook.com/docs",
+        "source_type": "official_docs"
+      }
+    ],
+    "confidence_score": 0.86,
     "verification_status": "verified",
     "research_attempts": 2,
     "human_verified": false
