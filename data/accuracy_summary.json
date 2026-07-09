@@ -1,0 +1,715 @@
+{
+  "total_compared": 100,
+  "first_pass_average_confidence": 0.7981,
+  "final_average_confidence": 0.7531,
+  "confidence_change": -0.045,
+  "improved_count": 12,
+  "declined_count": 87,
+  "unchanged_count": 1,
+  "improved_apps": [
+    {
+      "app_id": 1,
+      "app_name": "Salesforce",
+      "first_confidence": 0.72,
+      "final_confidence": 0.8,
+      "difference": 0.08
+    },
+    {
+      "app_id": 6,
+      "app_name": "Podio",
+      "first_confidence": 0.69,
+      "final_confidence": 0.7,
+      "difference": 0.01
+    },
+    {
+      "app_id": 7,
+      "app_name": "Zoho CRM",
+      "first_confidence": 0.72,
+      "final_confidence": 0.74,
+      "difference": 0.02
+    },
+    {
+      "app_id": 24,
+      "app_name": "Lark",
+      "first_confidence": 0.7,
+      "final_confidence": 0.76,
+      "difference": 0.06
+    },
+    {
+      "app_id": 34,
+      "app_name": "GoHighLevel",
+      "first_confidence": 0.71,
+      "final_confidence": 0.84,
+      "difference": 0.13
+    },
+    {
+      "app_id": 42,
+      "app_name": "WooCommerce",
+      "first_confidence": 0.74,
+      "final_confidence": 0.82,
+      "difference": 0.08
+    },
+    {
+      "app_id": 52,
+      "app_name": "SE Ranking",
+      "first_confidence": 0.71,
+      "final_confidence": 0.79,
+      "difference": 0.08
+    },
+    {
+      "app_id": 58,
+      "app_name": "Sherlock",
+      "first_confidence": 0.7,
+      "final_confidence": 0.77,
+      "difference": 0.07
+    },
+    {
+      "app_id": 68,
+      "app_name": "MongoDB Atlas",
+      "first_confidence": 0.72,
+      "final_confidence": 0.8,
+      "difference": 0.08
+    },
+    {
+      "app_id": 81,
+      "app_name": "Stripe",
+      "first_confidence": 0.73,
+      "final_confidence": 0.79,
+      "difference": 0.06
+    },
+    {
+      "app_id": 90,
+      "app_name": "PitchBook",
+      "first_confidence": 0.72,
+      "final_confidence": 0.76,
+      "difference": 0.04
+    },
+    {
+      "app_id": 96,
+      "app_name": "Devin",
+      "first_confidence": 0.73,
+      "final_confidence": 0.77,
+      "difference": 0.04
+    }
+  ],
+  "declined_apps": [
+    {
+      "app_id": 3,
+      "app_name": "Pipedrive",
+      "first_confidence": 0.78,
+      "final_confidence": 0.72,
+      "difference": -0.06
+    },
+    {
+      "app_id": 4,
+      "app_name": "Attio",
+      "first_confidence": 0.72,
+      "final_confidence": 0.71,
+      "difference": -0.01
+    },
+    {
+      "app_id": 5,
+      "app_name": "Twenty",
+      "first_confidence": 0.92,
+      "final_confidence": 0.89,
+      "difference": -0.03
+    },
+    {
+      "app_id": 8,
+      "app_name": "Close",
+      "first_confidence": 0.76,
+      "final_confidence": 0.66,
+      "difference": -0.1
+    },
+    {
+      "app_id": 9,
+      "app_name": "Copper",
+      "first_confidence": 0.83,
+      "final_confidence": 0.73,
+      "difference": -0.1
+    },
+    {
+      "app_id": 10,
+      "app_name": "DealCloud",
+      "first_confidence": 0.78,
+      "final_confidence": 0.71,
+      "difference": -0.07
+    },
+    {
+      "app_id": 11,
+      "app_name": "Zendesk",
+      "first_confidence": 0.75,
+      "final_confidence": 0.68,
+      "difference": -0.07
+    },
+    {
+      "app_id": 12,
+      "app_name": "Intercom",
+      "first_confidence": 0.84,
+      "final_confidence": 0.79,
+      "difference": -0.05
+    },
+    {
+      "app_id": 13,
+      "app_name": "Freshdesk",
+      "first_confidence": 0.76,
+      "final_confidence": 0.67,
+      "difference": -0.09
+    },
+    {
+      "app_id": 14,
+      "app_name": "Front",
+      "first_confidence": 0.75,
+      "final_confidence": 0.69,
+      "difference": -0.06
+    },
+    {
+      "app_id": 15,
+      "app_name": "Pylon",
+      "first_confidence": 0.76,
+      "final_confidence": 0.74,
+      "difference": -0.02
+    },
+    {
+      "app_id": 16,
+      "app_name": "LiveAgent",
+      "first_confidence": 0.86,
+      "final_confidence": 0.82,
+      "difference": -0.04
+    },
+    {
+      "app_id": 17,
+      "app_name": "Plain",
+      "first_confidence": 0.9,
+      "final_confidence": 0.86,
+      "difference": -0.04
+    },
+    {
+      "app_id": 18,
+      "app_name": "Help Scout",
+      "first_confidence": 0.92,
+      "final_confidence": 0.82,
+      "difference": -0.1
+    },
+    {
+      "app_id": 19,
+      "app_name": "Gorgias",
+      "first_confidence": 0.85,
+      "final_confidence": 0.76,
+      "difference": -0.09
+    },
+    {
+      "app_id": 20,
+      "app_name": "Gladly",
+      "first_confidence": 0.8,
+      "final_confidence": 0.76,
+      "difference": -0.04
+    },
+    {
+      "app_id": 21,
+      "app_name": "Slack",
+      "first_confidence": 0.79,
+      "final_confidence": 0.76,
+      "difference": -0.03
+    },
+    {
+      "app_id": 22,
+      "app_name": "Twilio",
+      "first_confidence": 0.78,
+      "final_confidence": 0.72,
+      "difference": -0.06
+    },
+    {
+      "app_id": 23,
+      "app_name": "Zoho Cliq",
+      "first_confidence": 0.78,
+      "final_confidence": 0.73,
+      "difference": -0.05
+    },
+    {
+      "app_id": 25,
+      "app_name": "Pumble",
+      "first_confidence": 0.83,
+      "final_confidence": 0.78,
+      "difference": -0.05
+    },
+    {
+      "app_id": 26,
+      "app_name": "Discord",
+      "first_confidence": 0.89,
+      "final_confidence": 0.79,
+      "difference": -0.1
+    },
+    {
+      "app_id": 27,
+      "app_name": "Telegram",
+      "first_confidence": 0.81,
+      "final_confidence": 0.74,
+      "difference": -0.07
+    },
+    {
+      "app_id": 28,
+      "app_name": "WhatsApp Business",
+      "first_confidence": 0.82,
+      "final_confidence": 0.75,
+      "difference": -0.07
+    },
+    {
+      "app_id": 29,
+      "app_name": "Aircall",
+      "first_confidence": 0.79,
+      "final_confidence": 0.71,
+      "difference": -0.08
+    },
+    {
+      "app_id": 30,
+      "app_name": "Vonage",
+      "first_confidence": 0.77,
+      "final_confidence": 0.74,
+      "difference": -0.03
+    },
+    {
+      "app_id": 31,
+      "app_name": "Google Ads",
+      "first_confidence": 0.76,
+      "final_confidence": 0.71,
+      "difference": -0.05
+    },
+    {
+      "app_id": 32,
+      "app_name": "Meta Ads",
+      "first_confidence": 0.85,
+      "final_confidence": 0.75,
+      "difference": -0.1
+    },
+    {
+      "app_id": 33,
+      "app_name": "LinkedIn Ads",
+      "first_confidence": 0.87,
+      "final_confidence": 0.83,
+      "difference": -0.04
+    },
+    {
+      "app_id": 35,
+      "app_name": "Mailchimp",
+      "first_confidence": 0.92,
+      "final_confidence": 0.89,
+      "difference": -0.03
+    },
+    {
+      "app_id": 36,
+      "app_name": "Klaviyo",
+      "first_confidence": 0.84,
+      "final_confidence": 0.77,
+      "difference": -0.07
+    },
+    {
+      "app_id": 37,
+      "app_name": "systeme.io",
+      "first_confidence": 0.75,
+      "final_confidence": 0.7,
+      "difference": -0.05
+    },
+    {
+      "app_id": 38,
+      "app_name": "Pinterest",
+      "first_confidence": 0.84,
+      "final_confidence": 0.78,
+      "difference": -0.06
+    },
+    {
+      "app_id": 39,
+      "app_name": "Threads",
+      "first_confidence": 0.77,
+      "final_confidence": 0.73,
+      "difference": -0.04
+    },
+    {
+      "app_id": 40,
+      "app_name": "SendGrid",
+      "first_confidence": 0.77,
+      "final_confidence": 0.72,
+      "difference": -0.05
+    },
+    {
+      "app_id": 41,
+      "app_name": "Shopify",
+      "first_confidence": 0.78,
+      "final_confidence": 0.68,
+      "difference": -0.1
+    },
+    {
+      "app_id": 43,
+      "app_name": "BigCommerce",
+      "first_confidence": 0.81,
+      "final_confidence": 0.72,
+      "difference": -0.09
+    },
+    {
+      "app_id": 44,
+      "app_name": "Salesforce Commerce Cloud",
+      "first_confidence": 0.76,
+      "final_confidence": 0.66,
+      "difference": -0.1
+    },
+    {
+      "app_id": 45,
+      "app_name": "Adobe Commerce",
+      "first_confidence": 0.78,
+      "final_confidence": 0.71,
+      "difference": -0.07
+    },
+    {
+      "app_id": 46,
+      "app_name": "Squarespace",
+      "first_confidence": 0.85,
+      "final_confidence": 0.8,
+      "difference": -0.05
+    },
+    {
+      "app_id": 47,
+      "app_name": "Ecwid",
+      "first_confidence": 0.77,
+      "final_confidence": 0.73,
+      "difference": -0.04
+    },
+    {
+      "app_id": 48,
+      "app_name": "Gumroad",
+      "first_confidence": 0.75,
+      "final_confidence": 0.66,
+      "difference": -0.09
+    },
+    {
+      "app_id": 49,
+      "app_name": "Amazon Selling Partner",
+      "first_confidence": 0.78,
+      "final_confidence": 0.74,
+      "difference": -0.04
+    },
+    {
+      "app_id": 50,
+      "app_name": "Fanbasis",
+      "first_confidence": 0.84,
+      "final_confidence": 0.75,
+      "difference": -0.09
+    },
+    {
+      "app_id": 51,
+      "app_name": "DataForSEO",
+      "first_confidence": 0.79,
+      "final_confidence": 0.72,
+      "difference": -0.07
+    },
+    {
+      "app_id": 53,
+      "app_name": "Ahrefs",
+      "first_confidence": 0.85,
+      "final_confidence": 0.8,
+      "difference": -0.05
+    },
+    {
+      "app_id": 54,
+      "app_name": "MrScraper",
+      "first_confidence": 0.8,
+      "final_confidence": 0.75,
+      "difference": -0.05
+    },
+    {
+      "app_id": 55,
+      "app_name": "Apify",
+      "first_confidence": 0.78,
+      "final_confidence": 0.69,
+      "difference": -0.09
+    },
+    {
+      "app_id": 56,
+      "app_name": "Firecrawl",
+      "first_confidence": 0.77,
+      "final_confidence": 0.68,
+      "difference": -0.09
+    },
+    {
+      "app_id": 57,
+      "app_name": "Bright Data",
+      "first_confidence": 0.87,
+      "final_confidence": 0.82,
+      "difference": -0.05
+    },
+    {
+      "app_id": 59,
+      "app_name": "Waterfall.io",
+      "first_confidence": 0.81,
+      "final_confidence": 0.76,
+      "difference": -0.05
+    },
+    {
+      "app_id": 60,
+      "app_name": "Clay",
+      "first_confidence": 0.85,
+      "final_confidence": 0.82,
+      "difference": -0.03
+    },
+    {
+      "app_id": 61,
+      "app_name": "GitHub",
+      "first_confidence": 0.83,
+      "final_confidence": 0.78,
+      "difference": -0.05
+    },
+    {
+      "app_id": 62,
+      "app_name": "Vercel",
+      "first_confidence": 0.82,
+      "final_confidence": 0.74,
+      "difference": -0.08
+    },
+    {
+      "app_id": 63,
+      "app_name": "Netlify",
+      "first_confidence": 0.82,
+      "final_confidence": 0.73,
+      "difference": -0.09
+    },
+    {
+      "app_id": 64,
+      "app_name": "Cloudflare",
+      "first_confidence": 0.9,
+      "final_confidence": 0.84,
+      "difference": -0.06
+    },
+    {
+      "app_id": 65,
+      "app_name": "Supabase",
+      "first_confidence": 0.78,
+      "final_confidence": 0.73,
+      "difference": -0.05
+    },
+    {
+      "app_id": 66,
+      "app_name": "Neo4j",
+      "first_confidence": 0.88,
+      "final_confidence": 0.85,
+      "difference": -0.03
+    },
+    {
+      "app_id": 67,
+      "app_name": "Snowflake",
+      "first_confidence": 0.75,
+      "final_confidence": 0.69,
+      "difference": -0.06
+    },
+    {
+      "app_id": 69,
+      "app_name": "Datadog",
+      "first_confidence": 0.76,
+      "final_confidence": 0.7,
+      "difference": -0.06
+    },
+    {
+      "app_id": 70,
+      "app_name": "Sentry",
+      "first_confidence": 0.75,
+      "final_confidence": 0.72,
+      "difference": -0.03
+    },
+    {
+      "app_id": 71,
+      "app_name": "Notion",
+      "first_confidence": 0.85,
+      "final_confidence": 0.79,
+      "difference": -0.06
+    },
+    {
+      "app_id": 72,
+      "app_name": "Airtable",
+      "first_confidence": 0.78,
+      "final_confidence": 0.71,
+      "difference": -0.07
+    },
+    {
+      "app_id": 73,
+      "app_name": "Linear",
+      "first_confidence": 0.83,
+      "final_confidence": 0.77,
+      "difference": -0.06
+    },
+    {
+      "app_id": 74,
+      "app_name": "Jira",
+      "first_confidence": 0.88,
+      "final_confidence": 0.85,
+      "difference": -0.03
+    },
+    {
+      "app_id": 75,
+      "app_name": "Asana",
+      "first_confidence": 0.79,
+      "final_confidence": 0.7,
+      "difference": -0.09
+    },
+    {
+      "app_id": 76,
+      "app_name": "Monday.com",
+      "first_confidence": 0.82,
+      "final_confidence": 0.8,
+      "difference": -0.02
+    },
+    {
+      "app_id": 77,
+      "app_name": "ClickUp",
+      "first_confidence": 0.81,
+      "final_confidence": 0.71,
+      "difference": -0.1
+    },
+    {
+      "app_id": 78,
+      "app_name": "Coda",
+      "first_confidence": 0.79,
+      "final_confidence": 0.69,
+      "difference": -0.1
+    },
+    {
+      "app_id": 79,
+      "app_name": "Smartsheet",
+      "first_confidence": 0.88,
+      "final_confidence": 0.8,
+      "difference": -0.08
+    },
+    {
+      "app_id": 80,
+      "app_name": "Harvest",
+      "first_confidence": 0.8,
+      "final_confidence": 0.74,
+      "difference": -0.06
+    },
+    {
+      "app_id": 82,
+      "app_name": "Plaid",
+      "first_confidence": 0.83,
+      "final_confidence": 0.75,
+      "difference": -0.08
+    },
+    {
+      "app_id": 83,
+      "app_name": "Binance",
+      "first_confidence": 0.75,
+      "final_confidence": 0.68,
+      "difference": -0.07
+    },
+    {
+      "app_id": 84,
+      "app_name": "Paygent Connect",
+      "first_confidence": 0.78,
+      "final_confidence": 0.72,
+      "difference": -0.06
+    },
+    {
+      "app_id": 85,
+      "app_name": "iPayX",
+      "first_confidence": 0.77,
+      "final_confidence": 0.75,
+      "difference": -0.02
+    },
+    {
+      "app_id": 86,
+      "app_name": "QuickBooks",
+      "first_confidence": 0.85,
+      "final_confidence": 0.75,
+      "difference": -0.1
+    },
+    {
+      "app_id": 87,
+      "app_name": "Xero",
+      "first_confidence": 0.83,
+      "final_confidence": 0.8,
+      "difference": -0.03
+    },
+    {
+      "app_id": 88,
+      "app_name": "Brex",
+      "first_confidence": 0.77,
+      "final_confidence": 0.73,
+      "difference": -0.04
+    },
+    {
+      "app_id": 89,
+      "app_name": "Ramp",
+      "first_confidence": 0.77,
+      "final_confidence": 0.71,
+      "difference": -0.06
+    },
+    {
+      "app_id": 91,
+      "app_name": "NotebookLM",
+      "first_confidence": 0.76,
+      "final_confidence": 0.72,
+      "difference": -0.04
+    },
+    {
+      "app_id": 92,
+      "app_name": "Otter AI",
+      "first_confidence": 0.86,
+      "final_confidence": 0.83,
+      "difference": -0.03
+    },
+    {
+      "app_id": 93,
+      "app_name": "Fathom",
+      "first_confidence": 0.79,
+      "final_confidence": 0.73,
+      "difference": -0.06
+    },
+    {
+      "app_id": 94,
+      "app_name": "Consensus",
+      "first_confidence": 0.86,
+      "final_confidence": 0.77,
+      "difference": -0.09
+    },
+    {
+      "app_id": 95,
+      "app_name": "Reducto",
+      "first_confidence": 0.81,
+      "final_confidence": 0.78,
+      "difference": -0.03
+    },
+    {
+      "app_id": 97,
+      "app_name": "Higgsfield",
+      "first_confidence": 0.86,
+      "final_confidence": 0.82,
+      "difference": -0.04
+    },
+    {
+      "app_id": 98,
+      "app_name": "Mermaid CLI",
+      "first_confidence": 0.78,
+      "final_confidence": 0.69,
+      "difference": -0.09
+    },
+    {
+      "app_id": 99,
+      "app_name": "YouTube Transcript",
+      "first_confidence": 0.84,
+      "final_confidence": 0.81,
+      "difference": -0.03
+    },
+    {
+      "app_id": 100,
+      "app_name": "Grain",
+      "first_confidence": 0.82,
+      "final_confidence": 0.77,
+      "difference": -0.05
+    }
+  ],
+  "unchanged_apps": [
+    {
+      "app_id": 2,
+      "app_name": "HubSpot",
+      "first_confidence": 0.72,
+      "final_confidence": 0.72,
+      "difference": 0.0
+    }
+  ]
+}

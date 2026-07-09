@@ -1,0 +1,11 @@
+{
+    "pipeline_version": "1.0",
+    "research_model": "gpt-5.2",
+    "verification_model": "gpt-5.2",
+    "confidence_threshold": 0.75,
+    "total_apps": 100,
+    "research_completed": 0,
+    "verification_completed": 0,
+    "retry_count": 0,
+    "final_verification_completed": 0
+}

@@ -1,0 +1,8 @@
+composio
+pydantic
+pandas
+python-dotenv
+httpx
+beautifulsoup4
+tenacity
+tqdm
