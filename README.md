@@ -157,7 +157,7 @@ composio-product-ops/
 3. **Environment Configuration:**
    Create a `.env` file in the root directory and add your Composio API key:
    ```env
-   COMPOSIO_API_KEY=ak_1JYSR1LlDU65HT8__CVr
+   COMPOSIO_API_KEY=YOU_KEY
    ```
 
 ---
